@@ -1,3 +1,4 @@
 GitHub on koodihostinguplatvorm koostööks ja versioonikontrolliks. GitHub võimaldab teil (ja teistel) koos projektidega töötada.
 Githubi kasutavad arendajad, programmeerimisõpetajad, üliõpilased ja ettevõtted kogu maailmas.
 Saan kasutada GitHubi kodus enda arvutis, kui ma tahan midagi programmeerida.
+GitHub asutati veebruar 8, 2008 ja selle loojad on Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon. Teenus on kättesaadav olnud aprill 10, 2008 saadik.
